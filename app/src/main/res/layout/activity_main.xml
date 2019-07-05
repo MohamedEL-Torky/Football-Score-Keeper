@@ -44,7 +44,7 @@
                 android:fontFamily="sans-serif-light"
                 android:gravity="center"
                 android:text="@string/initial_score"
-                android:textColor="#00FF0C"
+                android:textColor="@color/green"
                 android:textSize="56sp"
                 android:textStyle="bold" />
 
@@ -54,7 +54,7 @@
                 android:fontFamily="sans-serif-light"
                 android:gravity="center"
                 android:text="@string/foul_tittle"
-                android:textColor="#616161"
+                android:textColor="@color/grey"
                 android:textSize="14sp"
                 android:textStyle="bold" />
 
@@ -66,7 +66,7 @@
                 android:gravity="center"
                 android:paddingBottom="24dp"
                 android:text="@string/initial_score"
-                android:textColor="#FF1200"
+                android:textColor="@color/red"
                 android:textSize="28sp"
                 android:textStyle="bold" />
 
@@ -108,7 +108,7 @@
                 android:gravity="center"
                 android:padding="16dp"
                 android:text="@string/team_b_tittle"
-                android:textColor="#616161"
+                android:textColor="@color/grey"
                 android:textSize="14sp"
                 android:textStyle="bold" />
 
@@ -119,7 +119,7 @@
                 android:fontFamily="sans-serif-light"
                 android:gravity="center"
                 android:text="@string/initial_score"
-                android:textColor="#00FF0C"
+                android:textColor="@color/green"
                 android:textSize="56sp"
                 android:textStyle="bold" />
 
@@ -129,7 +129,7 @@
                 android:fontFamily="sans-serif-light"
                 android:gravity="center"
                 android:text="@string/foul_tittle"
-                android:textColor="#616161"
+                android:textColor="@color/grey"
                 android:textSize="14sp"
                 android:textStyle="bold" />
 
@@ -141,7 +141,7 @@
                 android:gravity="center"
                 android:paddingBottom="24dp"
                 android:text="@string/initial_score"
-                android:textColor="#FF1200"
+                android:textColor="@color/red"
                 android:textSize="28sp"
                 android:textStyle="bold" />
 
