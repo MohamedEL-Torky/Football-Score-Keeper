@@ -10,7 +10,10 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private TextView mTeamAScore, mTeamBScore, mTeamAFouls, mTeamBFouls;
+    private TextView mTeamAScore;
+    private TextView mTeamBScore;
+    private TextView mTeamAFouls;
+    private TextView mTeamBFouls;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
